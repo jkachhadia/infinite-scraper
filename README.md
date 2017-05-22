@@ -17,6 +17,7 @@ You should have a Python3 installed in your system along with the following libr
 As shown in the GUI, application generally consists of two line-edits:
 * **City input box** - Input the name of city for which you want to get data.
 * **Locality input box** - Input the name of city's locality whose data you want to fetch.
+
 It also consists of two drop down buttons:
 * **Output file type** - CSV, Excel or JSON data formats available.
 * **Data type** - Buy/Rent
