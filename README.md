@@ -23,6 +23,7 @@ It also consists of two drop down buttons:
 It has two buttons for fetching data from two different platforms:
 * magicbricks
 * 99acres
+
 It has one button called **Convert** which will save your fetched data in desired output type.
 
 # Gist of the application
