@@ -20,6 +20,7 @@ As shown in the GUI, application generally consists of two line-edits:
 It also consists of two drop down buttons:
 * **Output file type** - CSV, Excel or JSON data formats available.
 * **Data type** - Buy/Rent
+
 It has two buttons for fetching data from two different platforms:
 * magicbricks
 * 99acres
