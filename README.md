@@ -6,7 +6,7 @@ A PyQt application to scrape all residential buy/rental data from platforms like
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes after installing the prerequisites. You can use it for personal uses for research purposes on housing price analysis for various parts of India. 
 
 ### Prerequisites
 
